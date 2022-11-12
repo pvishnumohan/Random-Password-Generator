@@ -1,0 +1,47 @@
+.formcls{
+    margin: 0 auto;
+    width: 250px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+table
+{
+    width: 100%;
+}
+
+td{
+    padding: 10px;
+}
+
+.bgcolorchange{
+    background-color: silver;
+    margin-bottom: 20px;
+    padding: 75px;
+}
+
+.textmargin{
+    margin-left: 120px;
+    margin-right: 120px ;
+}
+
+.movText{
+    padding-left: 60px;
+}
+
+.hello{
+    padding-left: 20px;
+}
+
+.rgtspc{
+    padding-right: 40px;
+}
+
+input.modifiedInput[type="text"]{
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 30px;
+}
